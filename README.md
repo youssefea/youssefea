@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi there, I'm Youssef 👋
+I'm a web3 engineer with a keen interest in the interactions between AI and blockchain technology.
 
-<!--
-**youssefea/youssefea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 My current projects
+Project 1 - A cross-chain NFT Renting Platform - Jaypigs.
+Project 2 - A fun interactive NFT explorer with ChatGPT integration for hilarious commentary on your favorite digital assets! - still without a name.
 
-Here are some ideas to get you started:
+👯 I'm looking to collaborate on
+Projects related to decentralized finance (DeFi) and non-fungible tokens (NFTs)
+Applications that combine AI and blockchain technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me
+
+Telegram: @youssea
