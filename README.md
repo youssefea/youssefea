@@ -1,4 +1,1 @@
-Hi there, I'm **Youssef** 
-
-*📫 How to reach me*
-- Telegram: @youssefea
+Hi there, I'm **Youssef**, terminally onchain.
